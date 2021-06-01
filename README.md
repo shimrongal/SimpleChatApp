@@ -3,9 +3,9 @@ Android chat application
 
 App Install: 
 
-  1. pull the project from the master branch 
-  2. open andriod stuio and import the project 
-  3. run the app.
+  1. Pull the project from the master branch 
+  2. Ppen Android Studio and import the project 
+  3. Run the app.
 
 App content:
 
