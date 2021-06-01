@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+
+    <string name="enter_your_mail">Enter your mail</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="please_add_your_email_first">Please add your email first</string>
+    <string name="enter_room_number">Enter room number</string>
+    <string name="submit">Submit</string>
+    <string name="signout">Signout</string>
+    <string name="please_insert_your_email_first">Please insert your email first</string>
+    <string name="please_insert_your_pass">Please insert your password first</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="insert_message">Please insert your message</string>
+    <string name="chat_room_fragment_label">Chat room</string>
+    <string name="chat_room_select_fragment_label">Chat room selecet</string>
+    <string name="enter_room_number_first">Please enter room number first</string>
+
+</resources>
