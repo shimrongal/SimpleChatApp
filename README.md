@@ -1,0 +1,2 @@
+# SimpleChatApp
+Android chat application
